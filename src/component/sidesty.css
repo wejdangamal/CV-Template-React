@@ -1,0 +1,32 @@
+*{
+    font-family: Verdana;
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(245, 245, 245);
+}
+ul{
+    list-style: none;
+    padding: 5px;
+}
+li{
+    padding: 4px;
+}
+.section1{
+    background-color:white;
+}
+.block1,.block2,.block3{
+ padding:10px;
+ margin:10px;
+}
+.left-side{
+    height:750px;
+}
+.m{
+    font-size: 20px !important;
+}
+.me-4{
+    font-size: 15px !important;
+}
